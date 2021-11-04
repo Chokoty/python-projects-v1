@@ -2,10 +2,14 @@
 
 * 0~9 사이에서 서로다른 3개 꺼내는 방법 
 
-* 
+* 리펙토링, 디버깅 하는법, 시간 측정하기
 
-This is the Template Repl for Python.
+버전 1
 
-Python is a dynamic language emphasizing readability.
+버전 2
+남은 생명 *100 포인트 -> 점수 기록 시간 측정?까지 -> 파일 저장 기록 볼수 잇게
 
-[Check out the official docs here](https://www.python.org/).
+레벨 3 4 개 선택
+
+타이틀 제작
+버전
