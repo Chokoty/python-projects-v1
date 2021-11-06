@@ -9,7 +9,7 @@ for i in range(3):
       continue
     break
   answer.append(temp)
-print(answer)
+#print(answer)
 
 strike = 0
 ball = 0
